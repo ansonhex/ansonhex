@@ -10,10 +10,10 @@ Currently pursuing a MS Computer Science program at Northeastern University to e
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonhe97&layout=compact&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
 
-- ✅ Python
-- ✅ C
 - ✅ HTML / CSS / JavaScript
 - ✅ Java (ongoing!)
+- ✅ Python
+- ✅ C
 - ...
 
 ### 🛠 Frameworks / Tech Stacks
