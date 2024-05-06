@@ -10,16 +10,23 @@ Currently pursuing a MS Computer Science program at Northeastern University to e
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonhe97&layout=compact&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
 
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / JavaScript
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Java (ongoing!)
+- ✅ Python
+- ✅ C
+- ✅ HTML / CSS / JavaScript
+- ✅ Java (ongoing!)
 - ...
 
-<br>
+### 🛠 Frameworks / Tech Stacks
+
+- Bootstrap / jQuery
+- Node.js / Express.js
+- Docker / Linux
+- ...
 
 ## 🤑 Interests
 
 - NAS (UGREEN NASync + Synology)
+- Embedded Gadgets (Arduino-based/ESP32/Raspberry Pi)
 - Custom Keyboards
 - Consumer Electronics
 
