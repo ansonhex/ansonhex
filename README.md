@@ -1,6 +1,6 @@
 # ansonhe@github:~$
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ansonhe97&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true&include_all_commits=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true&include_all_commits=true">
 
 I'm an experienced Product Manager in IoT and Consumer Electronics with a 3-year track record. Skilled in translating customer needs into actionable requirements and eventually launching desirable products.
 
@@ -8,7 +8,7 @@ Currently pursuing a MS Computer Science program at Northeastern University to e
 
 ## 💬 Worked language for me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonhe97&layout=compact&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonhex&layout=compact&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
 
 - ✅ HTML / CSS / JavaScript
 - ✅ Java (ongoing!)
