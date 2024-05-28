@@ -1,27 +1,42 @@
 # ansonhe@github:~$
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=trues">
 
 I'm an experienced Product Manager in IoT and Consumer Electronics with a 3-year track record. Skilled in translating customer needs into actionable requirements and eventually launching desirable products.
 
 Currently pursuing a MS Computer Science program at Northeastern University to enhance skills for future products/career opportunities. I aspire to secure a software development engineer internship at a tech giant dedicated to making a positive global impact.
 
-## 💬 Worked language for me
+## 💬 Tech Stacks
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonhex&layout=compact&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
 
-- ✅ HTML / CSS / JavaScript
-- ✅ Java (ongoing!)
-- ✅ Python
-- ✅ C
-- ...
-
-### 🛠 Frameworks / Tech Stacks
-
-- Bootstrap / jQuery
-- Node.js / Express.js
-- Docker / Linux
-- ...
+```javascript
+const Anson = {
+  pronouns: "He" | "Him",
+  Language: [
+    "HTML", 
+    "CSS", 
+    "JavaScript", 
+    "Java", 
+    "Python", 
+    "C",
+    // ... 
+  ],
+  Frameworks: [
+    "React", 
+    "Node", 
+    "Express", 
+    "MongoDB", 
+    "Prisma", 
+    "Bootstrap", 
+    "jQuery", 
+    "Docker", 
+    "Linux", 
+    "Git",
+    // ...
+  ]
+};
+```
 
 ## 🤑 Interests
 
