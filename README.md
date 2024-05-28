@@ -14,25 +14,25 @@ Currently pursuing a MS Computer Science program at Northeastern University to e
 const Anson = {
   pronouns: "He" | "Him",
   Language: [
-    "HTML", 
-    "CSS", 
-    "JavaScript", 
-    "Java", 
-    "Python", 
-    "C",
+    HTML, 
+    CSS, 
+    JavaScript, 
+    Java, 
+    Python, 
+    C
     // ... 
   ],
   Frameworks: [
-    "React", 
-    "Node", 
-    "Express", 
-    "MongoDB", 
-    "Prisma", 
-    "Bootstrap", 
-    "jQuery", 
-    "Docker", 
-    "Linux", 
-    "Git",
+    React, 
+    Node, 
+    Express, 
+    MongoDB, 
+    Prisma, 
+    Bootstrap, 
+    jQuery, 
+    Docker, 
+    Linux, 
+    Git
     // ...
   ]
 };
