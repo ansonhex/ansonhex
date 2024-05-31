@@ -13,11 +13,12 @@ Currently pursuing a MS Computer Science program at Northeastern University to e
 ```javascript
 const Anson = {
   Language: [
-    HTML, CSS, JavaScript, Java, Python, C, // ...
+    HTML, CSS, JavaScript, Java, Python, C // ...
   ],
   Frameworks: [
-    React, Node, Express, MongoDB, Prisma,
-    Bootstrap, jQuery, Docker, Linux, Git, // ...
+    React, Node, Express, MySQL, PostgreSQL,
+    MongoDB, Prisma, Bootstrap, jQuery,
+    Docker, Linux, Git // ...
   ]
 };
 ```
