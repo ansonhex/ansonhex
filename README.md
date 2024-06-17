@@ -17,7 +17,7 @@ const Anson = {
   ],
   Frameworks: [
     React, Node, Express, MySQL, PostgreSQL,
-    MongoDB, Prisma, Bootstrap, jQuery,
+    TailwindCSS, MongoDB, Prisma, Bootstrap,
     Docker, Linux, Git // ...
   ]
 };
