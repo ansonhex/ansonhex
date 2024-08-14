@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=trues">
 
-I'm an experienced Product Manager in IoT and Consumer Electronics with a 3-year track record. Skilled in translating customer needs into actionable requirements and eventually launching desirable products.
+Ex-Product Manager with a 3-year track record in IoT and Consumer Electronics, skilled in translating customer needs into actionable requirements and launching successful products. 
 
-Currently pursuing a MS Computer Science program at Northeastern University to enhance skills for future products/career opportunities. I aspire to secure a software development engineer internship at a tech giant dedicated to making a positive global impact.
+Currently pursuing a Master's in Computer Science (MSCS) to transition into a Software Development Engineer (SDE) role and enhance skills for future opportunities. Passionate about AI on the edge and hardware, aiming to secure an SDE internship at a tech giant dedicated to global impact.
 
 ## 💬 Tech Stacks
 
