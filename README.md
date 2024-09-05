@@ -13,12 +13,13 @@ Currently pursuing a Master's in Computer Science (MSCS) to transition into a So
 ```javascript
 const Anson = {
   Language: [
-    HTML, CSS, JavaScript, Java, Python, C // ...
+    TypeScript， JavaScript, HTML, CSS, Java, Python,
+    C // ...
   ],
   Frameworks: [
-    React, Node, Express, MySQL, PostgreSQL,
-    TailwindCSS, MongoDB, Prisma, Bootstrap,
-    Docker, Linux, Git // ...
+    React, React Native, Node, Express, MySQL,
+    PostgreSQL, TailwindCSS, MongoDB, Prisma,
+    Bun, Hono, Bootstrap, Docker, Linux, Git // ...
   ]
 };
 ```
