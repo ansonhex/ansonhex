@@ -13,8 +13,7 @@ Currently pursuing a Master's in Computer Science (MSCS) to transition into a So
 ```javascript
 const Anson = {
   Language: [
-    TypeScript， JavaScript, Java, Python, 
-    C // ...
+    TypeScript, JavaScript, Java, Python, C // ...
   ],
   Frameworks: [
     React, React Native, Node, Express, MySQL,
