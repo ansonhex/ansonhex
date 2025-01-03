@@ -1,6 +1,6 @@
 # ansonhe@github:~$
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=transparent&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
 
 Ex-Product Manager with a 3-year track record in IoT and Consumer Electronics, skilled in translating customer needs into actionable requirements and launching successful products.
 
@@ -8,7 +8,7 @@ Currently pursuing a Master's in Computer Science (MSCS) to transition into a So
 
 ## 💬 Tech Stacks
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonhex&layout=compact&theme=transparent&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonhex&layout=compact&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
 
 ```javascript
 const Anson = {
