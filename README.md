@@ -1,4 +1,4 @@
-# ansonhe@github:~$
+# ansonhe@github:~$ <img src="https://www.ansonhe.com/SmurfCat.gif" width="40">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
 
