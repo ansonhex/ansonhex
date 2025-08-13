@@ -6,7 +6,7 @@
 
 ✦ Ex-PM with a 3-year track record in IoT and Consumer Electronics field.
 
-✦ Passionate about AI on the edge & hardware.
+✦ Passionate about AI on the edge.
 
 <br />
 
@@ -17,7 +17,7 @@
 ```javascript
 const Anson = {
   Language: [
-    TypeScript, JavaScript, Java, Python, C // ...
+    Python, TypeScript, JavaScript, Java, C // ...
   ],
   Frameworks: [
     React, React Native, Node, Express, MySQL,
@@ -27,7 +27,7 @@ const Anson = {
 };
 ```
 
-## 🤑 Interests
+## 🤑 Hobbies
 
 - NAS (UGREEN NASync + Synology)
 - Embedded Gadgets (Arduino-based/ESP32/Raspberry Pi)
