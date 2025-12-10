@@ -1,6 +1,6 @@
 # ansonhe@github:~$ <img src="https://www.ansonhe.com/SmurfCat.gif" width="40">
 
-<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true&text_color=ffffffcc&title_color=b596e5">
 
 ✦ Currently pursuing MSCS @ NEU to enhance skills for future opportunities.
 
@@ -12,7 +12,7 @@
 
 ## 💬 Tech Stacks
 
-<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ansonhex&layout=compact&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true">
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ansonhex&layout=compact&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true&text_color=ffffffcc&title_color=b596e5">
 
 ```javascript
 const Anson = {
