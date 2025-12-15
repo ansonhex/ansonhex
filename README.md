@@ -1,16 +1,12 @@
 # ansonhe@github:~$ <img src="https://www.ansonhe.com/SmurfCat.gif" width="40">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true&text_color=ffffffcc&title_color=b596e5">
+<TABLE>
+   <TR>
+   
+      <TD><img src="https://github-readme-stats.vercel.app/api?username=ansonhex&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true&text_color=ffffffcc&title_color=b596e5"></TD>
 
-✦ passionate about AI on the edge.
-
-✦ building things and iterating fast.
-
-<br />
-
-## 💬 Tech Stacks
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonhex&layout=compact&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_border=true&text_color=ffffffcc&title_color=b596e5">
+   </TR>
+</TABLE>
 
 ```javascript
 const Anson = {
@@ -24,8 +20,6 @@ const Anson = {
   ]
 };
 ```
-
-## 📨 Connect w/ me!
 
 <a href="https://www.linkedin.com/in/ansonhex/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hello@ansonhe.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
